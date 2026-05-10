@@ -1,0 +1,5 @@
+# 부모 repo (public) — Mac/IDE 메타파일만 제외
+.DS_Store
+**/.DS_Store
+.idea/
+.vscode/
